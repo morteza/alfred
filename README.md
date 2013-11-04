@@ -11,3 +11,5 @@ This repository contains some workflows I usually use, but made them before usin
 It's been a while that I'm using Alfred App; I like its short learning curve, developer and designer-friendly UX, and ease of use to develop your own workflow. Stuff here, in this repository, are my contributions to the productivity level of this app, limited by my own needs.
 
 _Check the LICENSE file for the full license governing this project._
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/morteza/alfred/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
